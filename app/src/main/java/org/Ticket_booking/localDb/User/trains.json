@@ -1,0 +1,45 @@
+[
+  {
+    "train_id": "bacs",
+"train_no": 8888,
+"seatts": [
+[0,0,0,0,0,0],
+[0,0,0,0,0,0],
+[0,0,0,0,0,0],
+[0,0,0,0,0,0]
+],
+"stations_times": {
+  "Bangalore": "13:50:00",
+  "Jaipur": "13:50:00",
+  "Delhi": "13:50:00"
+},
+    "station": [
+      "Bangalore",
+      "Jaipur",
+      "Delhi"
+    ]
+
+},
+
+  {
+    "train_id": "bacs",
+    "train_no": 8888,
+    "seatts": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "stations_times": {
+      "Bangalore": "13:50:00",
+      "Jaipur": "13:50:00",
+      "Delhi": "13:50:00"
+    },
+    "station": [
+      "Bangalore",
+      "Jaipur",
+      "Delhi"
+    ]
+
+}
+]

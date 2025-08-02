@@ -1,0 +1,31 @@
+[
+  {
+    "user_id": "12345",
+    "name": "Mohd Kaif",
+    "HashPassword": "Kaif@123",
+    "ticket_booked": [
+      {
+        "source": "Banglore",
+        "destination": "Delhi",
+        "date_of_travel": "2023-12-08T18:00Z",
+        "train": {
+          "train_id": "bacs",
+          "train_no": 8888,
+          "seatts": [
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0]
+          ],
+          "stations_times":{
+            "Bangalore": "13:50:00",
+            "Jaipur": "13:50:00",
+            "Delhi": "13:50:00"
+
+          }
+
+        }
+      }
+    ]
+  }
+]
