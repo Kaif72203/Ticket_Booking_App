@@ -12,3 +12,6 @@ plugins {
 
 rootProject.name = 'Ticket_Booking_App'
 include('app')
+
+include 'util'
+include 'app:util'
